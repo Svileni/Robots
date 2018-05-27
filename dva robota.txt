@@ -1,0 +1,24 @@
+
+start:
+L
+S
+G start
+
+when_find:
+L
+L
+G when_find
+
+
+
+moze i krace bez jednog L u when_find, ali se sporije dolazi do susreta,
+takodje moguce je istim petljama izvrsiti zadatak i u suprotnom smeru zamenom svih L sa R,
+
+Princip rada algoritma je da vrsi instrukcije iz prve petlje dok ne dodje do uslova S gde
+preskace povratak na pocetak petlje i prelazi u drugu petlju.
+
+P.S. U prilogu resenje i u PHP
+
+
+
+
